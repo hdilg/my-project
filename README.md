@@ -7,8 +7,6 @@
 نظام REST API مبني بـ Node.js و Express لإدارة الإجازات الطبية، مزود بطبقات حماية متقدمة:
 - حماية من XSS وNoSQL Injection
 - Rate Limiting
-- قيود CORS صارمة
-
 - تسجيل شامل عبر Winston
 
 ---
